@@ -1,0 +1,20 @@
+//
+//  Chapter3.swift
+//  CLIStoryTemplate
+//
+
+import Foundation
+
+func chapterThree() {
+    //Your portion of the story goes here
+   print("There were a group of boys who had a common love for fast cars. The young boys came across the haunted car many times and they didn't know it was haunted. The boys were fascinated with its exterior and supercharged engine . The young boys were always up to no good and with halloween nearing , they've had many plans of misfit and destruction. One day the group suggested that they try to steal the car since it's always sitting in the garage. While the kids thought the car was immmobile , the evil automobile was planning his next victim amongst them")
+   print("The few decided to dress up with halloween masks and take the car when the night was young. The group brung a few tools to carjack the haunted car and little did they know they were in for a suprise. With halloween nearing the cars powers were only getting stronger. They tried to break the glass but the window's were too thick , they tried to look inside the tint was too strong. Next one of them tried to puncture the tires but the rubber just seemed indestructable. The next step was the kids tried  ")
+    
+//    let characterName: String = "John"
+//    
+//    let sentence78: String = "\(characterName) rode the car"
+//    print ("\(characterName) is outside of the car")
+//    print (sentence78)
+//    print ("\(characterName) ran inside to get a weapon")
+    
+}
