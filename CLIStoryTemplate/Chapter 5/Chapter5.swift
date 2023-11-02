@@ -6,5 +6,6 @@
 import Foundation
 
 func chapterFive() {
-    // Your portion of the story goes here
+    print("My name is Adebola Fagade!")
+    print("Ty is cool!")
 }
