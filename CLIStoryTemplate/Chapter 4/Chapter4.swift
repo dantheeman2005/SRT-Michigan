@@ -11,9 +11,9 @@ func chapterFour() {
         case spooky
     }
 
-    var raceClubMembers = ["Jake", "Sophie", "Carlos", "Lena"]
+    let raceClubMembers = ["Jake", "Sophie", "Carlos", "Lena"]
     var raceResults: [String: CarType] = [:]
-    let raceTrackLength = 1.5
+    _ = 1.5
     let october = 10
 
     func raceCar(type: CarType) -> Bool {
